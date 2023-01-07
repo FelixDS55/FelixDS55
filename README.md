@@ -15,3 +15,11 @@
 
 <a href="https://t.me/FelixDS"><img src="/icons/Telegram.png" width="50" height="50"  alt="Telegram"/></a>
 [FelixDS](https://t.me/FelixDS) </br>
+
+
+<table width="100%" border='0'>
+   <tr>     
+    <tr><td width="30%" valign="bottom"><img src="/icons/qa-guru80.png"></td><td valign="middle">Школа инженеров по автоматизации тестирования <a target="_blank" href="https://qa.guru">qa.guru</a>.</td></tr>
+   </tr>
+  </table>
+  </br>
