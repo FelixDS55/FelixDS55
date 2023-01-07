@@ -13,6 +13,9 @@
 <a href="https://github.com/allure-framework/allure2"><img src="/icons/Allure_Report.png" width="50" height="50"  alt="Allure"/></a>
 <a href="https://www.jenkins.io/"><img src="/icons/Jenkins.png" width="50" height="50"  alt="Jenkins"/></a>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelixDS55&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelixDS55&show_icons=true&theme=transparent)
+
 <a href="https://t.me/FelixDS"><img src="/icons/Telegram.png" width="50" height="50"  alt="Telegram"/></a>
 [FelixDS](https://t.me/FelixDS) </br>
 
