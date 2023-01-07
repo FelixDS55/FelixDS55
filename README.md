@@ -16,6 +16,10 @@
 <a href="https://t.me/FelixDS"><img src="/icons/Telegram.png" width="50" height="50"  alt="Telegram"/></a>
 [FelixDS](https://t.me/FelixDS) </br>
 
+#### С моим резюме можно ознакомиться:
+<a href="https://spb.hh.ru/resume/ac4c3fe5ff07014e580039ed1f5a5244487a71"><img src="/icons/HH.png" width="50" height="50"  alt="Jenkins"/></a>
+ 
+
 
 <table width="100%" border='0'>
    <tr>     
